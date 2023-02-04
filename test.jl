@@ -20,4 +20,4 @@ met = [
     WPMMethod(),
 ]
 
-result = copeland(df, w, fns, met)
+result = copeland(df, weights, fns, met)
